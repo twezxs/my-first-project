@@ -1,0 +1,37 @@
+body{
+    background-color: aquamarine;
+    margin: 0;
+}
+.header{
+    width: auto;
+    height: 150px;
+    background-color: rgb(125, 211, 211);
+}
+.content-one{
+    width: auto;
+    height: auto;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.block{
+    width: 250px;
+    height: 250px;
+    border: 1px solid;
+    margin-bottom: 40px;
+    margin: 30px;
+}
+.b1{
+    background-color: rgb(255, 0, 221);
+
+}
+.b2{
+    background-color: rgb(226, 141, 43);
+}
+.b3{
+    background-color: brown;
+}
+.b4{
+    background-color: aliceblue;
+}
